@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Yuji Mai', serif;
+}
+
+
+#navbar{
+    background-color: rgb(131, 131, 136);
+    
+}
+.menu{
+    display: inline-block;
+    margin: 20px;
+}
+.menu li{
+    display: inline-block;
+}
+.men{
+    text-decoration: none;
+    color: rgb(36, 36, 36);
+    margin: 5px;
+}
+#wiki{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+#posts:hover{
+    text-decoration: underline;
+    color: rgb(17, 16, 16);
+}
+#files:hover{
+    text-decoration: underline;
+    color: rgb(29, 27, 27);
+}
+
+#middle{
+    margin: 20px;
+}
+
+.para{
+    margin: 4px;
+}
+
+#table1, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table1{
+    width: 80%;
+    height: 125px;
+    margin-top: 0px;
+}
+
+#table2, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table2{
+    width: 80%;
+    height: 10px;
+}
+
+#table3, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#table3{
+    width: 80%;
+    height: 10px;
+}
